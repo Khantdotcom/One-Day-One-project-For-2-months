@@ -10,3 +10,6 @@
   - F: Linting
 - Mini-Project 1 (Integration Focus): TS script to transform JSON data safely
 - Mini-Project 2 (System Focus): Build a simple type-safe React component
+
+
+Daily log - Structural typing , Partial<T>

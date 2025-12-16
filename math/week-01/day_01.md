@@ -1,6 +1,6 @@
 Day 01 — DE/DM/DS
 
-DE Topic: Partial Derivatives.
+DE Topic: Partial Derivatives. (yes, partially)
 DM Topic: Trivial/Vacuous/Direct Proofs.
 DS Topic: Binary, Octal, Hex Systems.
 
